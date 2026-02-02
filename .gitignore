@@ -11,8 +11,4 @@ venv/
 env/
 .env
 
-# Data and Models
-data/
-models/
-results/
-*.pkl
+
