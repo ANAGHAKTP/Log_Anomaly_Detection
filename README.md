@@ -1,4 +1,4 @@
-![Log Anomaly Detection Banner](file:///c:/Users/user/.gemini/antigravity/brain/ff8d5bf5-cbf2-4fe9-9200-a853039aea3f/log_anomaly_banner_1770045167037.png)
+![Log Anomaly Detection Banner](assets/banner.png)
 
 # 🔍 Log Anomaly Detection
 
