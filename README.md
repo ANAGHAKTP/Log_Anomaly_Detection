@@ -79,13 +79,6 @@ Launch the Streamlit interface to test the model with custom log messages:
 streamlit run src/app.py
 ```
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to checkout the `issues` or submit a PR.
-
----
 
 ## 📜 License
 
